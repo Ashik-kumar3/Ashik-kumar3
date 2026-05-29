@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashik kumar</h1>
 <h3 align="center">A passionate AI/ML Engineer who solve real world problems.</h3>
 
-- 🌱 I’m currently learning **Python,TensorFlow,PyTorch**
+- I’m currently learning **Python,TensorFlow,PyTorch**
 
-- 📫 How to reach me **ashik03kumar@gmail.com**
+- How to reach me **ashik03kumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
