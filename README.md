@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashik kumar</h1>
-<h3 align="center">A passionate AI/ML Engineer who solve real world problems.</h3>
+<h3 align="center">A Passionate AI/ML Engineer building AI-powered solutions for real-world challenges.</h3>
 
-- I’m currently learning **Python,TensorFlow,PyTorch**
+- Working on Computer Vision, Deep Learning and Medical AI applications.
 
 - How to reach me **ashik03kumar@gmail.com**
 
